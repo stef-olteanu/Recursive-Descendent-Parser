@@ -1,0 +1,15 @@
+gramatica : acacdedce - incorecta
+	    acacdedca - corecta
+
+gramatica1 : for id = id to id step id ** id - corect
+	     for id * id step id to id - incorecta
+
+gramatica2 : a + a 
+	     a + ( a + a * a ) 
+	     a + ( a + ( a + a ( a + a * a ) ) )
+	     a + + a (
+
+gramatica3 : repeat i := i until i <= i
+
+gramatica4 : a*a+a
+

@@ -1,0 +1,13 @@
+E
+E T F L
++ * ( ) a ,
+9
+E : E + T
+E : T
+T : T * F
+T : F
+F : a
+F : a ( L )
+F : ( E )
+L : E
+L : E , L

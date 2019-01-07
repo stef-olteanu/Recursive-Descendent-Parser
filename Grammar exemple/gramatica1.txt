@@ -1,0 +1,15 @@
+I
+I A L E
+for to step let call id ( ) , = * **
+10
+I : for A to E
+I : for A to E step E
+I : let A
+I : call id ( L )
+L : id
+L : id , L
+A : id = E
+E : id
+E : id * E
+E : id ** E
+

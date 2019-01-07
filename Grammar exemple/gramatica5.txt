@@ -1,0 +1,12 @@
+E
+E T X Y F
+( ) * + a
+8
+E : T X 
+X : + T X 
+X : eps
+T : F Y 
+Y : * F Y 
+Y : eps
+F : ( E )
+F : a

@@ -1,0 +1,14 @@
+I
+I E F L
+if then ( ) else repeat until := < <= i ,
+10
+I : if E then ( I )
+I : if E then ( I ) else I
+I : repeat I until E
+I : F := F
+E : F < F
+E : F <= F
+F : i
+F : i ( L )
+L : i
+L : L , i
